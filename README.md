@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Screenshots (Click to view larger)
 
-<img src="./screenshots/mobile.jpeg" alt="Alt Text" style="height:320px;"> <img src="./screenshots/tablet.jpeg" alt="Alt Text" style="height:320px;"> <img src="./screenshots/desktop.jpeg" alt="Alt Text" style="height:320px;">
+<img src="./screenshots/mobile.jpeg" alt="Alt Text" style="height:300px;"> <img src="./screenshots/tablet.jpeg" alt="Alt Text" style="height:300px;"> <img src="./screenshots/desktop.jpeg" alt="Alt Text" style="height:300px;">
 
 ---
 
